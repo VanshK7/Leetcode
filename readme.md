@@ -16,9 +16,9 @@ Each problem has a single .py file named after its corresponding LeetCode ID (e.
 
 3. Run the `.py` file to execute the solution.  
 
-Contributing:  
+## Contributing:  
 Contributions are welcome if you have improvements to share! Please fork the repository   and submit a pull request.  
 
-License:  
+## License:  
 This repository is licensed under the MIT License.  
 
