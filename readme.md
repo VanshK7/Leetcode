@@ -9,10 +9,10 @@ Each problem has a single .py file named after its corresponding LeetCode ID (e.
 
 ## Getting Started:
 1. Clone this repository to your local machine.  
-`git clone https://github.com/VanshK7/leetcode.git`  
+    ```git clone https://github.com/VanshK7/leetcode.git```  
 
 2. Navigate to the folder for the desired problem.  
-`cd leetcode`  
+    ```cd leetcode```
 
 3. Run the `.py` file to execute the solution.  
 
